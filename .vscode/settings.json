@@ -1,0 +1,10 @@
+{
+    "python.formatting.autopep8Path": "/home/hgcollins/.local/share/virtualenvs/daily-journal-server-5f5hXkEZ/bin/autopep8",
+    "python.linting.pylintEnabled": true,
+    "python.analysis.diagnosticSeverityOverrides": {
+      "reportGeneralTypeIssues": "none"
+    },
+    "files.exclude": {
+     "**/__pycache__": true
+   },
+}
